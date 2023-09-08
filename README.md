@@ -7,7 +7,7 @@ To complete this assignment, we will use the pair programming model. One person 
 
 At the end of the assignment, complete the following reflection about the pair programming model.
 1. What was successful about the pair programming model for your group?
-2. What was unsuccessful about the pair programming model for your group?
+2. What changes would you make to this model to make it more successful for your group?
 3. Why do you think software developers use this strategy when developing code?
 
 ## Documentation
