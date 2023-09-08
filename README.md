@@ -1,6 +1,6 @@
 # Lab 3: CrashMe
 
-For this assignment, you and your partner will try and crash the included Java program in as many ways as possible. By editing lines of code and by using various inputs, you will document all of the different errors and exceptions you are able to cause at compile time and runtime. (This does not include syntax errors). Some errors you may try to cause are NullPointerExceptions, IndexOutOfBoundExceptions, StackOverflowErrors, etc. For some more inspiration here is a manual of errors and exceptions: https://classroom.github.com/a/zuosmWoV.
+For this assignment, you and your partner will try and crash the included Java program in as many ways as possible. By editing lines of code and by using various inputs, you will document all of the different errors and exceptions you are able to cause at compile time and runtime. (This does not include syntax errors). Some errors you may try to cause are NullPointerExceptions, IndexOutOfBoundExceptions, StackOverflowErrors, etc. For some more inspiration here is a manual of errors and exceptions: https://drive.google.com/file/d/1skAJl91CHexfGpH3uN8893mp_DuXjLql/view?usp=sharing
 
 ## Pair Programming
 To complete this assignment, we will use the pair programming model. One person will be the **Driver** and the other will be the **Navigator**. The Driver's responsibility is to write or edit the code/project. The Navigator's responsibility is to read the code as it is being typed, bring in outside resources, generate ideas, etc. Every 15-20 minutes, the two people will switch.  
